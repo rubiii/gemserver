@@ -1,0 +1,9 @@
+public/gems
+public/quick
+public/latest_specs*
+public/Marshal*
+public/prerelease*
+public/specs*
+public/yaml*
+
+tmp/*
