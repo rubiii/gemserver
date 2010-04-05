@@ -4,7 +4,7 @@ require 'rubygems/indexer'
 require "lib/config"
 
 get "/" do
-  "Hello world"
+  "Hello World"
 end
 
 post "/" do
